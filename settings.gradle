@@ -1,0 +1,2 @@
+rootProject.name = "tensorflow_test_2"
+include ':app'
